@@ -100,10 +100,3 @@ This command will display a list of all available Git commands, but for daily op
    ```bash
    git log
    ```
-
-## Conclusion
-
-These basic Git commands are essential for daily operations when working with Git repositories. Make sure to practice these commands to become more comfortable using Git!
-```
-
-Feel free to copy and paste this content into your `git_commands.md` file for your workshop! Let me know if you need any further modifications or additional commands.

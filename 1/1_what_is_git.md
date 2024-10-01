@@ -40,27 +40,30 @@ With its powerful features and capabilities, Git is an essential tool for modern
 
 ## Visualizing Git
 
-                         main
-                          |
-                          |
-                  +-------+-------+
-                  |               |
-               branchA        branchB
-                  |               |
-         +--------+--------+      |
-         |                 |      |
-     featureA1         featureB1
-         |                 |
-   +-----+-----+       +---+---+
-   |           |       |       |
-featureA1.1  featureA1.2 featureB1.1
-   |           |       |
-   |     +-----+-----+ |
-   |     |           | |
-featureA1.1.1   featureA1.2.1
-   |
-   |
-+--+--+
-|     |
-featureA1.1.1.1
+    ```bash
 
+                             main
+                              |
+                              |
+                      +-------+-------+
+                      |               |
+                   branchA        branchB
+                      |               |
+             +--------+--------+      |
+             |                 |      |
+         featureA1         featureB1
+             |                 |
+       +-----+-----+       +---+---+
+       |           |       |       |
+    featureA1.1  featureA1.2 featureB1.1
+       |           |       |
+       |     +-----+-----+ |
+       |     |           | |
+    featureA1.1.1   featureA1.2.1
+       |
+       |
+    +--+--+
+    |     |
+    featureA1.1.1.1
+    
+    ```
