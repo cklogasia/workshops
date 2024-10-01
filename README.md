@@ -93,4 +93,19 @@ Once the feature has been integrated and tested, it moves to the staging environ
 
 #### Production
 Once all tests have passed, the code is deployed to production, where it is ready to serve users. Production represents the final stage in the development lifecycle where the code is live and serving its intended purpose.
-```
+
+### What Isn’t Covered
+
+In this workshop, we are focusing on the **Application Layer** of the OSI model. Here’s what is **not** covered:
+
+- Physical Layer
+- Data Link Layer
+- Network Layer
+- Transport Layer
+- Session Layer
+- Presentation Layer
+
+For more information on the OSI model and its different layers, you can visit [this resource](https://www.techtarget.com/searchnetworking/definition/OSI).
+
+Our focus remains on **software development** and practices relevant to building and maintaining applications.
+
