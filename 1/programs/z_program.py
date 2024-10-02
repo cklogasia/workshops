@@ -2,7 +2,7 @@ def addition(number_one, number_two):
 
     result = number_one + number_two
 
-    print(f"\nResult: {result}\n")
+    print(f"\nCODE CHANGED Result: {result}\n")
 
     return result
 
